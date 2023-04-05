@@ -25,7 +25,7 @@ export default {
     success: 'Success',
     failed: 'Failed',
     verify: 'Verify',
-    unauthorizedTips: 'Unauthorized, please verify first.',
+    unauthorizedTips: 'Unauthorized, please verify first.关注公众号：StruggleYang回复获取',
   },
   chat: {
     newChatButton: 'New Chat',
